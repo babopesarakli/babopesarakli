@@ -2,7 +2,7 @@
 Game design student at Södertörn University (graduating 2028), specialising in game design and scripting.
 
 - **Main skills:** C#, C++
-- **Engines:** Unity, Unreal Engine (Blueprints), Godot
+- **Engines:** Unity, Unreal Engine, Godot
 - **Tools:** Git, Perforce
 - **Other skills:** music producer and bassist
 
