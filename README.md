@@ -22,7 +22,7 @@ Game design student at Södertörn University (graduating 2028), specialising in
 **Level Designer & Scrum Master.** Level design course project in a stealth horror game and toolset created by Petri Lankoski. I designed a gym scene in the second level of the game, and led the team building the level as Scrum Master.
 
 ### Unannounced project — Godot (2026)
-**Contributor.** Worked on a friend's indie studio's unannounced game while learning Godot.
+**Contributor.** Worked on a friend's indie studio's unannounced precision 2D platformer game, with focus on learning Godot.
 
 ### Unannounced project — Unity (2026, ongoing)
 **Game Designer & Programmer.** A pixel art farming-sim project with a classmate.
