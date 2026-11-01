@@ -1,7 +1,7 @@
 # Daniel Babopesarakli
 Game design student at Södertörn University (graduating 2028), specialising in game design and scripting.
 
-- **Main skill:** C#, C++
+- **Main skills:** C#, C++
 - **Engines:** Unity, Unreal Engine (Blueprints), Godot
 - **Tools:** Git, Perforce
 - **Other skills:** music producer and bassist
