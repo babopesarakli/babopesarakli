@@ -3,7 +3,7 @@ Game design student at Södertörn University (graduating 2028), specialising in
 
 - **Main skills:** C#, C++
 - **Engines:** Unity, Unreal Engine, Godot
-- **Tools:** Git, Perforce
+- **Version control:** Git, Perforce
 - **Other skills:** music producer and bassist
 
 📧 danielpesarakli@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-babopesarakli-522405368/) · [Linktree](https://linktr.ee/babopesarakli)
