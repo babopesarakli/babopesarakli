@@ -11,11 +11,11 @@ danielpesarakli@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-babop
 ## Projects
 
 ### B.V.R.S. Industries — Unreal Engine (2026, ongoing)
-**Product Owner & Lead Designer.** 4-player physics-based co-op game. I built the core game loop in Blueprints: the lobby, mission board, mission manager, HUD, timer, recipes and score screen. Pitched as the studio concept Dam Good Games at Game Town, Stockholm.
+**Product Owner & Lead Designer.** 4-player physics-based co-op game. I built the core prototype loop in Blueprints. Pitched as the studio concept Dam Good Games at Game Town, Stockholm.
 [Prototype video](https://youtu.be/abq6WGzURYk)
 
 ### Too Big To Sheathe — Unity (2025)
-**Programmer & Game Designer.** Procedural generation of objects and enemies for each dungeon, the full combat logic, and colliders and hitboxes. Showcased at Press Start.
+**Programmer & Game Designer.** Procedural generation of objects and enemies for each dungeon and the full combat logic. Showcased at Press Start in September 2025.
 [Prototype video](https://youtu.be/Magvqnt-2gA)
 
 ### Left Behind — Unity (2025)
