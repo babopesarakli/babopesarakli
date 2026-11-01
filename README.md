@@ -24,5 +24,5 @@ Game design student at Södertörn University (graduating 2028), specialising in
 ### Unannounced project — Godot (2026)
 **Contributor.** Worked on a friend's indie studio's unannounced game while learning Godot.
 
-### Germina — Unity (2026, ongoing)
+### Unannounced project — Unity (2026, ongoing)
 **Game Designer & Programmer.** A pixel art farming-sim project with a classmate.
